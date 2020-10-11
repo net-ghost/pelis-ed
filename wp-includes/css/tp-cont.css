@@ -1,0 +1,28 @@
+body{
+	background: url(https://i.ibb.co/s1qY5NX/Background.png);
+}
+main {
+	margin-top: 80px;
+}
+.title-name{
+	color: white;
+	text-decoration: none;
+}
+.title-name h1{
+	padding: 25px 0 0 0;
+	text-align: center;
+	font-size: 50px;
+}
+.img-title{
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+.img-title img{
+	position: absolute;
+	top: 4%;
+	left: 50%;
+	transform: translateX(-50%)translateY(0%);
+	width: 400px;
+	height: 200px;
+}
